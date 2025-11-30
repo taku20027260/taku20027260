@@ -42,7 +42,7 @@ https://uiflow2.m5stack.com/?pkey=3e75dcda15884a2f9ea939fad5e27715
 
 
 【LoRa_E220_JPソースコード送信】
-
+https://uiflow2.m5stack.com/?pkey=53ceba8e3aa74abdae4b3bb92008318c
 
 
 【LoRa_E220_JPソースコード：カスタムブロック】
