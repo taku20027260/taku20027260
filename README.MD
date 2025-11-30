@@ -51,7 +51,7 @@ https://uiflow2.m5stack.com/?pkey=53ceba8e3aa74abdae4b3bb92008318c
 
 
 【LoRa_E220_JPソースコード受信：ブロック】
-
+https://uiflow2.m5stack.com/?pkey=bd7912af1616462aaf8d9fea4d63b3d9
 
 
 
